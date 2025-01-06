@@ -22,3 +22,7 @@ var myVar = "Hello, world!";
 ######https://github.com/GamerTonioni/skills-communicate-using-markdown
 <br>
 ######gamertonioni.github.com/skills-communicate-using-markdown/main/Cat.jpg
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
